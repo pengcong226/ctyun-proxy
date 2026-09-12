@@ -153,6 +153,10 @@ ctyun-proxy/
 
 建议加 `.gitignore`：`debug/`、`__pycache__/`、`proxy-*.log`。
 
+## 社区
+
+- 本项目通过 [LINUX DO](https://linux.do) 社区分享，感谢社区的开源交流氛围
+
 ## 项目状态：快照发布，不维护
 
 这是一次性的**代码快照**，分享逆向思路和可用实现。作者不承诺维护：
